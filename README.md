@@ -1,3 +1,9 @@
+<!--
+ * @Author: wanghao81
+ * @Date: 2022-08-30 10:35:36
+ * @Description: 
+ * @LastEditors: 
+-->
 # 主要技术
 jquery、js
 
@@ -11,6 +17,9 @@ jquery、js
   + cookie设置
 
 有需要的可以自行扩展
+
+# 调用快捷键
+control+Q
   
   
  
