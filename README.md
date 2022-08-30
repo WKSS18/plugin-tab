@@ -9,6 +9,8 @@ jquery、js
   + tab切换
   + 背景切换
   + cookie设置
+
+有需要的可以自行扩展
   
   
  
